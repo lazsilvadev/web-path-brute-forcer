@@ -7,7 +7,7 @@ O **web-path-brute-forcer** mapeia a superfície de ataque de aplicações web, 
 
 ## 🚀 Funcionalidades
 * **Mapeamento de Diretorios:** Identifica rotas ativas (Status 200) e restritas (Status 403).
-* **Automação HTTP:** Realiza requisições assíncronas simples utilizando a biblioteca `requests`.
+* **Automação HTTP:** Realiza requisições automatizadas simples utilizando a biblioteca `requests`.
 * **Tratamento de Erros:** Gerencia falhas de conexão e timeouts durante a varredura.
 
 ## 🛠️ Tecnologias 
