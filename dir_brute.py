@@ -1,7 +1,7 @@
 import requests
 
 # Configurações iniciais
-target_url = "http://44.227.89.148:8220/purple/"  # USE APENAS EM LABS/CTFS
+target_url = "http://sua-url-de-teste.com"  # USE APENAS EM LABS/CTFS
 wordlist = dir_wordlist = [
     # Portais e Acesso
     "admin", "administrator", "login", "logon", "wp-admin", "panel", "painel",
