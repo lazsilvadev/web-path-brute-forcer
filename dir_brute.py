@@ -1,11 +1,5 @@
 import requests
 
-def banner():
-    print("-" * 50)
-    print("      WEB-PATH-BRUTE-FORCER v1.0")
-    print("      Developed by: Lázaro Perseu")
-    print("-" * 50)
-
 banner()
 # ... resto do seu código
 
