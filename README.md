@@ -26,7 +26,7 @@ O projeto prioriza a **objetividade**. É uma solução enxuta desenhada para id
 * **Relatórios Automáticos:** Exportação dos resultados encontrados diretamente para um arquivo PDF organizado. 
 
 ## 🛠️ Tecnologias
-*As principais ferramentas utilizadas no desenvolvimento do LazRecon:*
+*Utilizadas no desenvolvimento do **LazRecon:***
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-42a5f5?style=for-the-badge&logo=flutter&logoColor=white)
