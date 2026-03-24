@@ -38,18 +38,25 @@ O projeto prioriza a **objetividade**. É uma solução enxuta desenhada para id
 * Python 3.10 ou superior
 * [Poetry](https://python-poetry.org/docs/#installation) instalado
 
+### 1.1 Clonar o Repositório  
+```bash
+git clone https://github.com/lazsilvadev/lazrecon.git
+```
 ### Usando Poetry (Recomendado)
 ```bash
-# Instale as dependências
-poetry install
+poetry install # Instale as dependências
 
-# Inicie a GUI
-poetry run python lazrecon.py
+poetry run python lazrecon.py # Inicie a GUI
 ```
 ### Opção 2: Usando Pip (Tradicional)
 ```bash
-pip install -r requirements.txt
-python lazrecon.py
+python -m venv venv # Cria e ativa o ambiente virtual
+
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+
+pip install -r requirements.txt # Instale as dependências
+python lazrecon.py # Inicie a GUI
 ```
 ### ⚠️ Aviso Legal (Disclaimer)
 Este projeto foi desenvolvido exclusivamente para fins educacionais e de estudo. O uso desta ferramenta em sistemas sem autorização prévia é ilegal e de inteira responsabilidade do usuário. **Use com ética.**
