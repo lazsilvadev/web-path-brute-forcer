@@ -4,6 +4,11 @@
   <img src="lazrecon.jpg" alt="Interface do LazRecon v1.1" width="700">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.1.0-blue" alt="Versão">
+  <img src="https://img.shields.io/badge/status-active-success" alt="Status">
+</p>
+
 **LazRecon** é uma ferramenta de reconhecimento ativo e fuzzer de caminhos web. 
 
 > 💡 **Origem:** O projeto nasceu de um script pessoal desenvolvido para automatizar e facilitar o mapeamento de diretórios, evoluindo para uma aplicação estável com interface gráfica (GUI) e suporte a relatórios técnicos.
@@ -26,9 +31,6 @@ O projeto prioriza a **objetividade**. É uma solução enxuta desenhada para id
 * **Requests** (Engine HTTP)
 * **FPDF** (Gerador de Relatórios)
 * **Gestão de Dependências:** Poetry
-
-> ![Versão](https://img.shields.io/badge/version-1.1.0-blue) ![Status](https://img.shields.io/badge/status-active-success) ![Python](https://img.shields.io/badge/python-3.x-yellow)
-
 
 ## 📋 Como Instalar e Usar
 
